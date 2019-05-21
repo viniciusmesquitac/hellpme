@@ -5,7 +5,6 @@
 An Android Hellp.me app created with Java and Firebase. If you would like to request a feature, find a bug, have a question, or would like to leave feedback, open an issue! ⭐️ this repo to show support!
 ## Info
 * **Platform:** Android
-* **Framework for Learning:** Retrofit
 * **Code Style:** Standard
 
 
